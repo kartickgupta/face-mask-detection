@@ -1,1 +1,1 @@
-# Face Mask Detection using Transfer Learning using VGG-16 Architecture
+# Face Mask Detection using Transfer Learning using MobileNetV2 Architecture
