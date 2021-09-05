@@ -13,10 +13,10 @@ Easily Deployable to low-end devices like Raspberry-pi and can detect and work o
 
 <p>
 	<p align='center'> Without Mask </p>
-    <img src= "Mask Detection/Assets/without-mask.png" alt="feed example">
+    <img src= "https://github.com/kartickgupta/real-time-face-mask-detection/blob/main/Assets/without-mask.png" alt="feed example">
 	<br>
 	<p align='center'> With Mask </p>
-	<img src= "../Mask Detection/Assets/with-mask.png" alt="feed example">
+	<img src= "https://github.com/kartickgupta/real-time-face-mask-detection/blob/main/Assets/with-mask.png" alt="feed example">
 </p><br>
 
 ## Prerequisites
