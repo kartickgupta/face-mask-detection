@@ -4,9 +4,9 @@ Easily Deployable to low-end devices like Raspberry-pi and can detect and work o
 ## Libraries & Frameworks used:
 **1.** [TensorFlow](https://www.tensorflow.org/).
 
-**2.** [OpenCV](https://keras.io/).
+**2.** [OpenCV](https://opencv.org/).
 
-**3.** [Keras](https://opencv.org/).
+**3.** [Keras](https://keras.io/).
 
 
 ## Working of the Model
