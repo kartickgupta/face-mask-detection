@@ -8,8 +8,8 @@ new_model = load_model("Mask Detection/Saved Model/face_mask-2.h5")
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 cam = cv2.VideoCapture(0)
 
-color_result_dict = {0 : ['With Mask', (0, 225,0 )],
-                     1 : ['Without Mask', (0, 0, 225)]}
+color_result_dict = {1 : ['With Mask', (0, 225,0 )],
+                     0 : ['Without Mask', (0, 0, 225)]}
 
 while(True):
     ret, frame = cam.read()
